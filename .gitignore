@@ -1,0 +1,6 @@
+node_modules/
+/infra/.terraform/*
+/infra/terraform.tfstate*
+response.json
+*.zip
+.terraform.lock.hcl
