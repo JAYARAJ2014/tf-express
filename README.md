@@ -6,7 +6,8 @@
 
 ### Advantages of the approach
 
-    - Lambda can scale out very well and scale to zero when not needed. - Quick turn around: Easy to spinup and migrate apps to the cloud. - No worries about containers, servers , port mappings etc.
+    - Lambda can scale out very well and scale to zero when not needed. 
+    - Quick turn around: Easy to spinup and migrate apps to the cloud. - No worries about containers, servers , port mappings etc.
 
 ### Trade-offs
 
